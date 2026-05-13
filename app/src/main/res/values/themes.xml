@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.SpeechEdge" parent="Theme.MaterialComponents.Light" />
+</resources>
